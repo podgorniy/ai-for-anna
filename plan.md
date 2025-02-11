@@ -1,0 +1,8 @@
+- press-to-speak interface
+- pulsating abstract orb
+  - does not move when listens (person talks)
+  - moves along when ai replies (voice, and shows text optional)
+  - 
+- text-input iterface
+- [?] drag-n-drop interface for files. Same inputs available
+- 
