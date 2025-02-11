@@ -4,13 +4,13 @@ Nodejs and `npm` installed
 
 # Running
 
+Create read/write api key (no restrictions) https://platform.openai.com/api-keys and put it in the `.env` file into `OPENAI_API_KEY`.
+
 Install dependencies 
 `npm install`
 
 Run the app
 `make run`
-
-Create read/write api key (no restrictions) https://platform.openai.com/api-keys and put it in the `.env` file into `OPENAI_API_KEY`.
 
 Open http://localhost:1234
 
